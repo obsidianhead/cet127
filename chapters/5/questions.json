@@ -21,5 +21,189 @@
             }
         ],
         "solution": null
+    },
+    {
+        "question": "What are intermediate 'as-built' surveys used for during a project?",
+        "image": null,
+        "answers": [
+            {
+                "text": "To finalize the project’s completion.",
+                "correct": false
+            },
+            {
+                "text": "To design new structures on-site.",
+                "correct": false
+            },
+            {
+                "text": "To plan future expansions or modifications.",
+                "correct": false
+            },
+            {
+                "text": "To verify that structures are where they need to be or reasonably close to the planned locations.",
+                "correct": true
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "What is the final survey called that is conducted at the end of a project?",
+        "image": null,
+        "answers": [
+            {
+                "text": "Completion survey.",
+                "correct": false
+            },
+            {
+                "text": "End-of-project survey.",
+                "correct": false
+            },
+            {
+                "text": "Final site survey.",
+                "correct": false
+            },
+            {
+                "text": "As-built survey.",
+                "correct": true
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "What key elements are always included in a survey?",
+        "image": null,
+        "answers": [
+            {
+                "text": "Topography details, zoning laws, construction permits.",
+                "correct": false
+            },
+            {
+                "text": "Proposed lot divisions, future road plans, environmental impact study.",
+                "correct": false
+            },
+            {
+                "text": "Flood zone information, soil analysis, vegetation details.",
+                "correct": false
+            },
+            {
+                "text": "Locus map, scale, title block, revisions, owner information, reference to north, and legend.",
+                "correct": true
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "What types of information are commonly shown on a survey?",
+        "image": null,
+        "answers": [
+            {
+                "text": "Zoning designations, proposed structures, soil types.",
+                "correct": false
+            },
+            {
+                "text": "Architectural plans, utility designs, road expansions.",
+                "correct": false
+            },
+            {
+                "text": "Lot size, future development, water rights.",
+                "correct": false
+            },
+            {
+                "text": "Setbacks, wetlands, buildings, easements, bulk requirements.",
+                "correct": true
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "Do surveys show existing conditions or proposed developments?",
+        "image": null,
+        "answers": [
+            {
+                "text": "Proposed developments.",
+                "correct": false
+            },
+            {
+                "text": "Future plans.",
+                "correct": false
+            },
+            {
+                "text": "Existing conditions.",
+                "correct": true
+            },
+            {
+                "text": "Both existing and proposed conditions.",
+                "correct": false
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "What medium is commonly used to create an immutable copy of a survey?",
+        "image": null,
+        "answers": [
+            {
+                "text": "Vellum.",
+                "correct": false
+            },
+            {
+                "text": "Parchment.",
+                "correct": false
+            },
+            {
+                "text": "Blueprint.",
+                "correct": false
+            },
+            {
+                "text": "Mylar.",
+                "correct": true
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "What makes a survey legally recognized as an official document?",
+        "image": null,
+        "answers": [
+            {
+                "text": "The signature of the client.",
+                "correct": false
+            },
+            {
+                "text": "Approval from a legal authority.",
+                "correct": false
+            },
+            {
+                "text": "The embossed stamp or seal of the licensed surveyor.",
+                "correct": true
+            },
+            {
+                "text": "Notarization of the document.",
+                "correct": false
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "What is a dependent resurvey?",
+        "image": null,
+        "answers": [
+            {
+                "text": "A new survey that disregards the original boundaries.",
+                "correct": false
+            },
+            {
+                "text": "A survey that follows the original lines without adjustments or corrections.",
+                "correct": false
+            },
+            {
+                "text": "A survey that only reestablishes some parts of the original boundary lines, often due to legal disputes.",
+                "correct": false
+            },
+            {
+                "text": "A survey that retraces and reestablishes the lines of the original survey, maintaining the original boundaries as closely as possible.",
+                "correct": true
+            }
+        ],
+        "solution": null
     }
 ]
