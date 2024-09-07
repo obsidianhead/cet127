@@ -205,5 +205,51 @@
             }
         ],
         "solution": null
+    },
+    {
+        "question": "What is an easement?",
+        "image": null,
+        "answers": [
+            {
+                "text": "A restriction on how close a building can be to a property line.",
+                "correct": false
+            },
+            {
+                "text": "A legal right for someone else to use part of your property for a specific purpose, such as utilities or access.",
+                "correct": true
+            },
+            {
+                "text": "A zoning requirement that limits building height.",
+                "correct": false
+            },
+            {
+                "text": "A boundary that defines property ownership.",
+                "correct": false
+            }
+        ],
+        "solution": null
+    },
+    {
+        "question": "What is a setback?",
+        "image": null,
+        "answers": [
+            {
+                "text": "A right for others to use part of your property.",
+                "correct": false
+            },
+            {
+                "text": "A legal restriction preventing development on your property.",
+                "correct": false
+            },
+            {
+                "text": "A defined area for public use on private land.",
+                "correct": false
+            },
+            {
+                "text": "A minimum required distance that a building or structure must be from property lines, roads, or other structures, enforced by zoning laws.",
+                "correct": true
+            }
+        ],
+        "solution": null
     }
 ]
