@@ -207,27 +207,27 @@
         "solution": null
     },
     {
-        "question": "What is an easement?",
+        "question": "What is an easement in legal terms?",
         "image": null,
         "answers": [
             {
-                "text": "A restriction on how close a building can be to a property line.",
+                "text": "An easement is a temporary right allowing a person to occupy a property without consent.",
                 "correct": false
             },
             {
-                "text": "A legal right for someone else to use part of your property for a specific purpose, such as utilities or access.",
+                "text": "An easement refers to a full transfer of property ownership rights.",
+                "correct": false
+            },
+            {
+                "text": "An easement is a legal grant that allows for business operations on any property.",
+                "correct": false
+            },
+            {
+                "text": "An easement is a legal right to use another person's land for a specific limited purpose.",
                 "correct": true
-            },
-            {
-                "text": "A zoning requirement that limits building height.",
-                "correct": false
-            },
-            {
-                "text": "A boundary that defines property ownership.",
-                "correct": false
             }
         ],
-        "solution": null
+        "solution": "An easement is a legal agreement that allows a person or entity to use part of another person's land for a specific purpose, such as access, utilities, or drainage. It does not grant ownership of the land but rather permits specific use or access while the property remains owned by another."
     },
     {
         "question": "What is a setback?",
